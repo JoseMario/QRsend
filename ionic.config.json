@@ -1,0 +1,8 @@
+{
+  "name": "QRsend",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "86741abb"
+}
